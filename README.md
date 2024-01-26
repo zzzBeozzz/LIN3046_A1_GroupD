@@ -7,13 +7,13 @@ this is a collection of email messages from a teacher and a student, showing how
 all the file will be plain text TXT files
 
 ## group members 
-Hui jan 
+Hui jan 11418680
 
 
-Raphael 
+Yu Ao Tian Raphael 11485554
 
 
-Rachel 
+Kwok Ka Lam Rachel 11485372
 
 
 Zaheer Ali Akbar 11488702
