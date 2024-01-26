@@ -10,7 +10,7 @@ all the file will be plain text TXT files
 Hui jan 
 Raphael 
 Rachel 
-Ali 
+Zaheer Ali Akbar 
 
 ## description
 We want to observe how does lecturers and students communicate, in order to find the observation, each of the members find 5 emails each, to collect data
