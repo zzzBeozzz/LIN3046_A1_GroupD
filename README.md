@@ -1,6 +1,6 @@
 # LIN3046_A1_GroupD
 
-## purpsoe 
+## purpose
 this is a collection of email messages from a teacher and a student, showing how a student should communicate with teacher when asking for favors 
 
 ## file format 
